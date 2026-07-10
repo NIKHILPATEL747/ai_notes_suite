@@ -1,6 +1,0 @@
-{
-  "name": "AI Notes Generator",
-  "description": "An interactive study suite that generates high-quality lecture notes, Cornell layouts, flashcards, study quizzes, and visual mind maps from student inputs.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
